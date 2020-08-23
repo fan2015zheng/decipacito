@@ -22,3 +22,7 @@
 ._dropdownToggle {
   color: white;
 }
+
+body {
+  margin-top: 60px;
+}

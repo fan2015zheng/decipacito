@@ -10,9 +10,13 @@ function Navbar({lyrics, ln, setLn}) {
   
   
   return(<>
-  <nav className="navbar navbar-expand-sm bg-danger navbar-danger">
+  <nav className="navbar navbar-expand-sm fixed-top bg-danger navbar-danger">
   
-  <span className="navbar-brand _brand">Decipacito</span>
+  <span className="navbar-brand _brand _pointer"
+    onClick={()=> setLn(undefined)}
+  >
+    Decipacito
+  </span>
 
   <ul className="navbar-nav">
     <li className="nav-item dropdown">
