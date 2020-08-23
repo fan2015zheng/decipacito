@@ -1,24 +1,31 @@
 import React from 'react'
 import './Navbar.css'
 
-function Navbar({lyrics, setLn}) {
-  return(<>
-  <nav className="navbar navbar-expand-sm bg-dark navbar-dark">
+function Navbar({lyrics, ln, setLn}) {
+
+  let text = "Lyrics"
+  if (ln !== undefined) {
+    text = lyrics[ln]
+  }
   
-  <span className="navbar-brand">Decipacito</span>
+  
+  return(<>
+  <nav className="navbar navbar-expand-sm bg-danger navbar-danger">
+  
+  <span className="navbar-brand _brand">Decipacito</span>
 
   <ul className="navbar-nav">
     <li className="nav-item dropdown">
-      <span className="nav-link dropdown-toggle _pointer"  id="navbardrop" data-toggle="dropdown">
-        Lyrics
+      <span className="nav-link dropdown-toggle _pointer _dropdownToggle"  id="navbardrop" data-toggle="dropdown">
+        {text}
       </span>
       <div className="dropdown-menu _dropdown">
-        {getNumArray(73).map((line, i) => {
+        {getNumArray(73).map((l, i) => {
           return (
             <div key={i} className="dropdown-item _pointer _item"
-              onClick={() => {setLn(line)}}
+              onClick={() => {setLn(l)}}
             >
-              {lyrics[line]}
+              {lyrics[l]}
             </div>
           )
         })}

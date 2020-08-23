@@ -4,11 +4,11 @@ import Navbar from './Navbar'
 import WordCard from './WordCard'
 
 function App() {
-  const [ln, setLn] = useState(0)
+  const [ln, setLn] = useState()
 
   const line = words[ln]
   return (<>
-    <Navbar lyrics={lyrics} setLn={setLn}/>
+    <Navbar lyrics={lyrics} ln={ln} setLn={setLn}/>
     <div className="container">
       <div className="row">
       { 

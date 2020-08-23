@@ -10,3 +10,15 @@
 ._item {
   word-wrap: break-word;
 }
+
+._brand {
+  color: white;
+  border: 0.5px dashed white;
+  border-radius: 5px;
+  padding: 2px 5px 3px;
+  font-size: 20px;
+}
+
+._dropdownToggle {
+  color: white;
+}
