@@ -5,7 +5,7 @@ function YouTube () {
   return (<>
     <div className="_youtube">
       <iframe title="decipacito youtube" className="_youtubeFrame"
-        width="420" height="345" 
+        width="300" height="200" 
         
         src="https://www.youtube.com/embed/kJQP7kiw5Fk">
       </iframe>
