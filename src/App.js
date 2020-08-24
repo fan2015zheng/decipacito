@@ -78,16 +78,16 @@ const words ={
     {s:"más de lo normal",e:"more than normal",a:"moreThanNormal.mp3",i:""},
     {s:"normal",e:"normal",a:"normal.mp3",i:""}
   ],8: [
-    {s:"Todos",e:"",a:"",i:""},
-    {s:"mis",e:"",a:"",i:""},
-    {s:"sentidos",e:"",a:"",i:""},
-    {s:"van",e:"",a:"",i:""},
-    {s:"pidiendo",e:"",a:"",i:""},
-    {s:"más",e:"",a:"",i:""}
+    {s:"Todos",e:"all",a:"all.m4a",i:""},
+    {s:"mis",e:"my",a:"pMy.m4a",i:""},
+    {s:"sentidos",e:"senses",a:"senses.m4a",i:""},
+    {s:"van",e:"(they) go",a:"theyGo.m4a",i:""},
+    {s:"pidiendo",e:"asking",a:"asking.m4a",i:""},
+    {s:"más",e:"more",a:"more.mp3",i:""}
   ],9: [
     {s:"Esto",e:"",a:"",i:""},
     {s:"hay",e:"",a:"",i:""},
-    {s:"que",e:"",a:"",i:""},
+    {s:"que",e:"that",a:"that.mp3",i:""},
     {s:"tomarlo",e:"",a:"",i:""},
     {s:"sin",e:"",a:"",i:""},
     {s:"ningún",e:"",a:"",i:""},
@@ -97,12 +97,12 @@ const words ={
   ],11: [
     {s:"Quiero",e:"",a:"",i:""},
     {s:"respirar",e:"",a:"",i:""},
-    {s:"tu",e:"",a:"",i:""},
+    {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"cuello",e:"",a:"",i:""},
     {s:"despacito",e:"",a:"",i:""}
   ],12: [
     {s:"Deja",e:"",a:"",i:""},
-    {s:"que",e:"",a:"",i:""},
+    {s:"que",e:"that",a:"that.mp3",i:""},
     {s:"te",e:"",a:"",i:""},
     {s:"diga",e:"",a:"",i:""},
     {s:"cosas",e:"",a:"",i:""},
@@ -110,7 +110,7 @@ const words ={
     {s:"oído",e:"",a:"",i:""}
   ],13: [
     {s:"Para",e:"",a:"",i:""},
-    {s:"que",e:"",a:"",i:""},
+    {s:"que",e:"that",a:"that.mp3",i:""},
     {s:"te",e:"",a:"",i:""},
     {s:"acuerdes",e:"",a:"",i:""},
     {s:"si",e:"",a:"",i:""},
@@ -130,50 +130,49 @@ const words ={
     {s:"en",e:"",a:"",i:""},
     {s:"las",e:"",a:"",i:""},
     {s:"paredes",e:"",a:"",i:""},
-    {s:"de",e:"",a:"",i:""},
-    {s:"tu",e:"",a:"",i:""},
+    {s:"de",e:"of",a:"of.m4a",i:""},
+    {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"laberinto",e:"",a:"",i:""}
   ],17: [
-    {s:"Y",e:"",a:"",i:""},
+    {s:"y",e:"and",a:"and.mp3",i:""},
     {s:"hacer",e:"",a:"",i:""},
-    {s:"de",e:"",a:"",i:""},
-    {s:"tu",e:"",a:"",i:""},
+    {s:"de",e:"of",a:"of.m4a",i:""},
+    {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"cuerpo",e:"",a:"",i:""},
     {s:"todo",e:"",a:"",i:""},
     {s:"un",e:"",a:"",i:""},
     {s:"manuscrito",e:"",a:"",i:""},
-    {s:"sube",e:"",a:"",i:""}
+    {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:""}
   ],18: [
-    {s:"sube",e:"",a:"",i:""}
+    {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:""}
   ],19: [
     {s:"Quiero",e:"",a:"",i:""},
     {s:"ver",e:"",a:"",i:""},
     {s:"bailar",e:"",a:"",i:""},
-    {s:"tu",e:"",a:"",i:""},
+    {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"pelo",e:"",a:"",i:""}
   ],20: [
     {s:"Quiero",e:"",a:"",i:""},
     {s:"ser",e:"",a:"",i:""},
-    {s:"tu",e:"",a:"",i:""},
+    {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"ritmo",e:"",a:"",i:""}
   ],21: [
-    {s:"Que",e:"",a:"",i:""},
-    {s:"le",e:"",a:"",i:""},
-    {s:"enseñes",e:"",a:"",i:""},
-    {s:"a",e:"",a:"",i:""},
-    {s:"mi",e:"",a:"",i:""},
-    {s:"boca",e:"",a:"",i:""}
+    {s:"que",e:"(so) that",a:"that.mp3",i:""},
+    {s:"enseñes",e:"(you) teach",a:"youTeach.m4a",i:""},
+    {s:"le enseñes a mi boca",e:"show my mouth",a:"showMyMouth.m4a",i:""},
+    {s:"mi",e:"my",a:"my.m4a",i:""},
+    {s:"boca",e:"mouth",a:"mouth.m4a",i:""}
   ],22: [
-    {s:"tus",e:"",a:"",i:""},
-    {s:"lugares",e:"",a:"",i:""},
-    {s:"favoritos",e:"",a:"",i:""},
-    {s:"baby",e:"",a:"",i:""}
+    {s:"tus",e:"your",a:"pYour.m4a",i:""},
+    {s:"lugares",e:"places",a:"places.m4a",i:""},
+    {s:"favoritos",e:"favorite",a:"favorite.m4a",i:""},
+    {s:"baby",e:"baby",a:"baby.m4a",i:""}
   ],23: [
     {s:"déjame",e:"",a:"",i:""},
     {s:"sobrepasar",e:"",a:"",i:""},
     {s:"tus",e:"",a:"",i:""},
     {s:"zonas",e:"",a:"",i:""},
-    {s:"de",e:"",a:"",i:""},
+    {s:"de",e:"of",a:"of.m4a",i:""},
     {s:"peligro",e:"",a:"",i:""}
   ],24: [
     {s:"Hasta",e:"",a:"",i:""},
@@ -181,10 +180,10 @@ const words ={
     {s:"tus",e:"",a:"",i:""},
     {s:"gritos",e:"",a:"",i:""}
   ],25: [
-    {s:"Y",e:"",a:"",i:""},
-    {s:"que",e:"",a:"",i:""},
+    {s:"y",e:"and",a:"and.mp3",i:""},
+    {s:"que",e:"that",a:"that.mp3",i:""},
     {s:"olvides",e:"",a:"",i:""},
-    {s:"tu",e:"",a:"",i:""},
+    {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"apellido",e:"",a:"",i:""},
     {s:"dirididi",e:"",a:"",i:""},
     {s:"Daddy",e:"",a:"",i:""},
@@ -200,7 +199,7 @@ const words ={
   ],27: [
     {s:"Yo",e:"",a:"",i:""},
     {s:"sé",e:"",a:"",i:""},
-    {s:"que",e:"",a:"",i:""},
+    {s:"que",e:"that",a:"that.mp3",i:""},
     {s:"estás",e:"",a:"",i:""},
     {s:"pensándolo",e:"",a:"",i:""}
   ],28: [
@@ -211,31 +210,31 @@ const words ={
     {s:"Mami",e:"",a:"",i:""},
     {s:"esto",e:"",a:"",i:""},
     {s:"dando",e:"",a:"",i:""},
-    {s:"y",e:"",a:"",i:""},
+    {s:"y",e:"and",a:"and.mp3",i:""},
     {s:"dándolo",e:"",a:"",i:""}
   ],30: [
-    {s:"Sabes",e:"",a:"",i:""},
-    {s:"que",e:"",a:"",i:""},
-    {s:"tu",e:"",a:"",i:""},
+    {s:"sabes",e:"(You) know",a:"youKnow.mp3"},
+    {s:"que",e:"that",a:"that.mp3",i:""},
+    {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"corazón",e:"",a:"",i:""},
     {s:"conmigo",e:"",a:"",i:""},
     {s:"te",e:"",a:"",i:""},
     {s:"hace",e:"",a:"",i:""},
     {s:"bom",e:"",a:"",i:""}
   ],31: [
-    {s:"Sabes",e:"",a:"",i:""},
-    {s:"que",e:"",a:"",i:""},
+    {s:"sabes",e:"(You) know",a:"youKnow.mp3"},
+    {s:"que",e:"that",a:"that.mp3",i:""},
     {s:"esa",e:"",a:"",i:""},
     {s:"beba",e:"",a:"",i:""},
     {s:"está",e:"",a:"",i:""},
     {s:"buscando",e:"",a:"",i:""},
-    {s:"de",e:"",a:"",i:""},
+    {s:"de",e:"of",a:"of.m4a",i:""},
     {s:"mi",e:"",a:"",i:""},
     {s:"bom",e:"",a:"",i:""}
   ],32: [
     {s:"Ven",e:"",a:"",i:""},
     {s:"prueba",e:"",a:"",i:""},
-    {s:"de",e:"",a:"",i:""},
+    {s:"de",e:"of",a:"of.m4a",i:""},
     {s:"mi",e:"",a:"",i:""},
     {s:"boca",e:"",a:"",i:""},
     {s:"para",e:"",a:"",i:""},
@@ -268,11 +267,9 @@ const words ={
     {s:"después",e:"",a:"",i:""},
     {s:"salvaje",e:"",a:"",i:""}
   ],36: [
-    {s:"pasito",e:"",a:"",i:""},
-    {s:"a",e:"",a:"",i:""},
-    {s:"pasito",e:"",a:"",i:""},
-    {s:"suave",e:"",a:"",i:""},
-    {s:"suavecito",e:"",a:"",i:""}
+    {s:"pasito a pasito",e:"step by step",a:"",i:""},
+    {s:"suave",e:"soft",a:"soft.m4a",i:""},
+    {s:"suavecito",e:"softly",a:"softly.m4a",i:""}
   ],37: [
     {s:"Nos",e:"",a:"",i:""},
     {s:"vamos",e:"",a:"",i:""},
@@ -290,17 +287,15 @@ const words ={
     {s:"destreza",e:"",a:"",i:""}
   ],39: [
     {s:"veo",e:"",a:"",i:""},
-    {s:"que",e:"",a:"",i:""},
+    {s:"que",e:"that",a:"that.mp3",i:""},
     {s:"eres",e:"",a:"",i:""},
     {s:"malicia",e:"",a:"",i:""},
     {s:"con",e:"",a:"",i:""},
     {s:"delicadeza",e:"",a:"",i:""}
   ],40: [
-    {s:"pasito",e:"",a:"",i:""},
-    {s:"a",e:"",a:"",i:""},
-    {s:"pasito",e:"",a:"",i:""},
-    {s:"suave",e:"",a:"",i:""},
-    {s:"suavecito",e:"",a:"",i:""}
+    {s:"pasito a pasito",e:"step by step",a:"",i:""},
+    {s:"suave",e:"soft",a:"soft.m4a",i:""},
+    {s:"suavecito",e:"softly",a:"softly.m4a",i:""}
   ],41: [
     {s:"Nos",e:"",a:"",i:""},
     {s:"vamos",e:"",a:"",i:""},
@@ -309,9 +304,9 @@ const words ={
     {s:"a",e:"",a:"",i:""},
     {s:"poquito",e:"",a:"",i:""}
   ],42: [
-    {s:"Y",e:"",a:"",i:""},
+    {s:"y",e:"and",a:"and.mp3",i:""},
     {s:"es",e:"",a:"",i:""},
-    {s:"que",e:"",a:"",i:""},
+    {s:"que",e:"that",a:"that.mp3",i:""},
     {s:"esa",e:"",a:"",i:""},
     {s:"belleza",e:"",a:"",i:""},
     {s:"un",e:"",a:"",i:""},
@@ -329,12 +324,12 @@ const words ={
   ],45: [
     {s:"quiero",e:"",a:"",i:""},
     {s:"respirar",e:"",a:"",i:""},
-    {s:"tu",e:"",a:"",i:""},
+    {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"cuello",e:"",a:"",i:""},
     {s:"despacito",e:"",a:"",i:""}
   ],46: [
     {s:"deja",e:"",a:"",i:""},
-    {s:"que",e:"",a:"",i:""},
+    {s:"que",e:"that",a:"that.mp3",i:""},
     {s:"te",e:"",a:"",i:""},
     {s:"diga",e:"",a:"",i:""},
     {s:"cosas",e:"",a:"",i:""},
@@ -342,7 +337,7 @@ const words ={
     {s:"oído",e:"",a:"",i:""}
   ],47: [
     {s:"para",e:"",a:"",i:""},
-    {s:"que",e:"",a:"",i:""},
+    {s:"que",e:"that",a:"that.mp3",i:""},
     {s:"te",e:"",a:"",i:""},
     {s:"acuerdes",e:"",a:"",i:""},
     {s:"si",e:"",a:"",i:""},
@@ -362,31 +357,31 @@ const words ={
     {s:"en",e:"",a:"",i:""},
     {s:"las",e:"",a:"",i:""},
     {s:"paredes",e:"",a:"",i:""},
-    {s:"de",e:"",a:"",i:""},
-    {s:"tu",e:"",a:"",i:""},
+    {s:"de",e:"of",a:"of.m4a",i:""},
+    {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"laberinto",e:"",a:"",i:""}
   ],51: [
-    {s:"Y",e:"",a:"",i:""},
+    {s:"y",e:"and",a:"and.mp3",i:""},
     {s:"hacer",e:"",a:"",i:""},
-    {s:"de",e:"",a:"",i:""},
-    {s:"tu",e:"",a:"",i:""},
+    {s:"de",e:"of",a:"of.m4a",i:""},
+    {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"cuerpo",e:"",a:"",i:""},
     {s:"todo",e:"",a:"",i:""},
     {s:"un",e:"",a:"",i:""},
     {s:"manuscrito",e:"",a:"",i:""},
-    {s:"sube",e:"",a:"",i:""}
+    {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:""}
   ],52: [
-    {s:"sube",e:"",a:"",i:""}
+    {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:""}
   ],53: [
     {s:"quiero",e:"",a:"",i:""},
     {s:"ver",e:"",a:"",i:""},
     {s:"bailar",e:"",a:"",i:""},
-    {s:"tu",e:"",a:"",i:""},
+    {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"pelo",e:"",a:"",i:""}
   ],54: [
     {s:"quiero",e:"",a:"",i:""},
     {s:"ser",e:"",a:"",i:""},
-    {s:"tu",e:"",a:"",i:""},
+    {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"ritmo",e:"",a:"",i:""}
   ],55: [
     {s:"que",e:"(so) that",a:"that.mp3",i:""},
