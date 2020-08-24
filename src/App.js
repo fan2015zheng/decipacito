@@ -56,20 +56,27 @@ const words ={
     {s:"soy",e:"(I) am",a:"iAm.mp3",i:""},
     {s:"metal",e:"metal",a:"metal.mp3",i:""}
   ],5: [
-    {s:"",e:"",a:"",i:""},
-    {s:"",e:"",a:"",i:""},
-    {s:"",e:"",a:"",i:""},
-    {s:"",e:"",a:"",i:""}
+    {s:"Me voy",e:"I'm going",a:"imGoing.mp3",i:""},
+    {s:"acercando",e:"getting closer",a:"gettingCloser.mp3",i:""},
+    {s:"y",e:"and",a:"and.mp3",i:""},
+    {s:"armando",e:"put together",a:"putTogether.mp3",i:""},
+    {s:"el",e:"the",a:"the.mp3",i:""},
+    {s:"plan",e:"plan",a:"plan.mp3",i:""}
   ],6: [
-    {s:"",e:"",a:"",i:""},
-    {s:"",e:"",a:"",i:""},
-    {s:"",e:"",a:"",i:""},
-    {s:"",e:"",a:"",i:""}
+    {s:"solo",e:"alone",a:"along.mp3",i:""},
+    {s:"con",e:"with",a:"with.mp3",i:""},
+    {s:"pensarlo",e:"thinking",a:"thinking.mp3",i:""},
+    {s:"se",e:"itself",a:"itself.mp3",i:""},
+    {s:"acelera",e:"accelerate",a:"accelerate.mp3",i:""},
+    {s:"el",e:"the",a:"the.mp3",i:""},
+    {s:"pulso",e:"pulse",a:"pulse.mp3",i:""}
   ],7: [
-    {s:"",e:"",a:"",i:""},
-    {s:"",e:"",a:"",i:""},
-    {s:"",e:"",a:"",i:""},
-    {s:"",e:"",a:"",i:""}
+    {s:"ya",e:"already",a:"already.mp3",i:""},
+    {s:"me está gustando",e:"I'm liking it",a:"iAmLikingIt.mp3",i:""},
+    {s:"gustando",e:"liking",a:"liking.mp3",i:""},
+    {s:"más",e:"more",a:"more.mp3",i:""},
+    {s:"más de lo normal",e:"more than normal",a:"moreThanNormal.mp3",i:""},
+    {s:"normal",e:"normal",a:"normal.mp3",i:""}
   ],8: [
     {s:"",e:"",a:"",i:""},
     {s:"",e:"",a:"",i:""},
