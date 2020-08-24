@@ -61,6 +61,7 @@ function WordCard({word}) {
         ></div>
         <audio ref={audioRef}>
           <source src={audio} type="audio/mpeg" />
+          <source src={audio} type="audio/mp4" />
         </audio>
         <div>{text}</div>
       </div>
