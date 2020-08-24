@@ -23,16 +23,16 @@
 
 ._toggleLan {
   position: absolute;
-  height: 25px;
-  width: 25px;
+  height: 15px;
+  width: 15px;
   top: 5px;
   right: 5px;
 }
 
 ._audio {
   position: absolute;
-  height: 25px;
-  width: 25px;
+  height: 15px;
+  width: 15px;
   bottom: 5px;
   right: 5px;
 }
