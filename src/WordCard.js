@@ -63,7 +63,7 @@ function WordCard({word}) {
           <source src={audio} type="audio/mpeg" />
           <source src={audio} type="audio/mp4" />
         </audio>
-        <div>{text}</div>
+        <div className="_text">{text}</div>
       </div>
     </div>
   </>)
