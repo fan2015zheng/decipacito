@@ -7,7 +7,11 @@ function WordCard({word}) {
   const audioRef = useRef()
 
   useEffect(() => {
-    audioRef.current.load()
+    try {
+      audioRef.current.load()
+    } catch(e) {
+      console.log(audioRef.current)
+    }
   })
   
   let image = ""
