@@ -477,25 +477,21 @@ const words ={
     {s:"suave",e:"",a:"",i:""},
     {s:"suavecito",e:"",a:"",i:""}
   ],69: [
-    {s:"nos",e:"",a:"",i:""},
-    {s:"vamos",e:"",a:"",i:""},
-    {s:"pegando",e:"",a:"",i:""},
-    {s:"poquito",e:"",a:"",i:""},
-    {s:"a",e:"",a:"",i:""},
-    {s:"poquito",e:"",a:"",i:""}
+    {s:"nos vamos pegando",e:"we get closer",a:"weGetCloser.m4a",i:""},
+    {s:"poquito a poquito",e:"little by little",a:"littleByLittle.m4a",i:""}
   ],70: [
-    {s:"hasta",e:"",a:"",i:""},
-    {s:"provocar",e:"",a:"",i:""},
-    {s:"tus",e:"",a:"",i:""},
-    {s:"gritos",e:"",a:"",i:""}
+    {s:"hasta",e:"until",a:"until.m4a",i:""},
+    {s:"provocar",e:"to cause",a:"cause.m4a",i:""},
+    {s:"tus",e:"your",a:"pYour.m4a",i:""},
+    {s:"gritos",e:"scream",a:"scream.m4a",i:""}
   ],71: [
-    {s:"Y",e:"",a:"",i:""},
-    {s:"que",e:"",a:"",i:""},
-    {s:"olvides",e:"",a:"",i:""},
-    {s:"tu",e:"",a:"",i:""},
-    {s:"apellido",e:"",a:"",i:""}
+    {s:"Y",e:"and",a:"and.mp3",i:""},
+    {s:"que",e:"that",a:"that.mp3",i:""},
+    {s:"olvides",e:"(you) forget",a:"youForget.m4a",i:""},
+    {s:"tu",e:"your",a:"your.mp3",i:""},
+    {s:"apellido",e:"family name",a:"familyName.m4a",i:""}
   ],72: [
-    {s:"despacito",e:"",a:"",i:""}
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ]
 
 }
