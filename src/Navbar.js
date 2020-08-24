@@ -15,7 +15,7 @@ function Navbar({lyrics, ln, setLn}) {
   <span className="navbar-brand _brand _pointer"
     onClick={()=> setLn(undefined)}
   >
-    Decipacito
+    Learn Despacito
   </span>
 
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
