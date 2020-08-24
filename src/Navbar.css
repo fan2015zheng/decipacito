@@ -12,15 +12,12 @@
 }
 
 ._brand {
-  color: white;
-  border: 0.5px dashed white;
-  border-radius: 5px;
-  padding: 2px 5px 3px;
+  font-weight: bold;
   font-size: 20px;
 }
 
 ._dropdownToggle {
-  color: white;
+  color: white !important;
 }
 
 body {

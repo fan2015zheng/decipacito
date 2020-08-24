@@ -10,7 +10,7 @@ function Navbar({lyrics, ln, setLn}) {
   
   
   return(<>
-  <nav className="navbar navbar-expand-sm fixed-top bg-danger navbar-danger">
+  <nav className="navbar navbar-expand-sm fixed-top bg-secondary navbar-dark">
   
   <span className="navbar-brand _brand _pointer"
     onClick={()=> setLn(undefined)}
