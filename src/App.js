@@ -146,8 +146,8 @@ const words ={
     {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:""}
   ],19: [
     {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
-    {s:"ver",e:"",a:"",i:""},
-    {s:"bailar",e:"",a:"",i:""},
+    {s:"ver",e:"to see",a:"see.m4a",i:""},
+    {s:"bailar",e:"to dance",a:"toDance.mp3"},
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"pelo",e:"",a:"",i:""}
   ],20: [
@@ -191,7 +191,7 @@ const words ={
     {s:"Si",e:"",a:"",i:""},
     {s:"te",e:"",a:"",i:""},
     {s:"pido",e:"",a:"",i:""},
-    {s:"un",e:"",a:"",i:""},
+    {s:"un",e:"a",a:"a.m4a",i:""},
     {s:"beso",e:"",a:"",i:""},
     {s:"ven",e:"",a:"",i:""},
     {s:"dámelo",e:"",a:"",i:""}
@@ -223,27 +223,27 @@ const words ={
   ],31: [
     {s:"sabes",e:"(You) know",a:"youKnow.mp3"},
     {s:"que",e:"that",a:"that.mp3",i:""},
-    {s:"esa",e:"",a:"",i:""},
+    {s:"esa",e:"that",a:"that2.m4a",i:""},
     {s:"beba",e:"",a:"",i:""},
     {s:"está",e:"",a:"",i:""},
     {s:"buscando",e:"",a:"",i:""},
     {s:"de",e:"of",a:"of.m4a",i:""},
-    {s:"mi",e:"",a:"",i:""},
+    {s:"mi",e:"my",a:"my.m4a",i:""},
     {s:"bom",e:"",a:"",i:""}
   ],32: [
     {s:"Ven",e:"",a:"",i:""},
     {s:"prueba",e:"",a:"",i:""},
     {s:"de",e:"of",a:"of.m4a",i:""},
-    {s:"mi",e:"",a:"",i:""},
-    {s:"boca",e:"",a:"",i:""},
+    {s:"mi",e:"my",a:"my.m4a",i:""},
+    {s:"boca",e:"mouth",a:"mouth.m4a",i:""},
     {s:"para",e:"",a:"",i:""},
-    {s:"ver",e:"",a:"",i:""},
+    {s:"ver",e:"to see",a:"see.m4a",i:""},
     {s:"cómo",e:"",a:"",i:""},
     {s:"te",e:"",a:"",i:""},
     {s:"sabe",e:"",a:"",i:""}
   ],33: [
     {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
-    {s:"ver",e:"",a:"",i:""},
+    {s:"ver",e:"to see",a:"see.m4a",i:""},
     {s:"cuánto",e:"",a:"",i:""},
     {s:"amor",e:"",a:"",i:""},
     {s:"a",e:"",a:"",i:""},
@@ -282,7 +282,7 @@ const words ={
     {s:"me",e:"",a:"",i:""},
     {s:"besas",e:"",a:"",i:""},
     {s:"con",e:"",a:"",i:""},
-    {s:"esa",e:"",a:"",i:""},
+    {s:"esa",e:"that",a:"that2.m4a",i:""},
     {s:"destreza",e:"",a:"",i:""}
   ],39: [
     {s:"veo",e:"",a:"",i:""},
@@ -304,12 +304,12 @@ const words ={
     {s:"poquito",e:"",a:"",i:""}
   ],42: [
     {s:"y",e:"and",a:"and.mp3",i:""},
-    {s:"es",e:"",a:"",i:""},
+    {s:"es",e:"is",a:"is.m4a",i:""},
     {s:"que",e:"that",a:"that.mp3",i:""},
-    {s:"esa",e:"",a:"",i:""},
-    {s:"belleza",e:"",a:"",i:""},
-    {s:"un",e:"",a:"",i:""},
-    {s:"rompecabezas",e:"",a:"",i:""}
+    {s:"esa",e:"that",a:"that2.m4a",i:""},
+    {s:"belleza",e:"beauty",a:"beauty.m4a",i:""},
+    {s:"un",e:"a",a:"a.m4a",i:""},
+    {s:"rompecabezas",e:"jigsaw puzzle",a:"puzzle.m4a",i:""}
   ],43: [
     {s:"pero",e:"",a:"",i:""},
     {s:"pa",e:"",a:"",i:""},
@@ -372,8 +372,8 @@ const words ={
     {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:""}
   ],53: [
     {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
-    {s:"ver",e:"",a:"",i:""},
-    {s:"bailar",e:"",a:"",i:""},
+    {s:"ver",e:"to see",a:"see.m4a",i:""},
+    {s:"bailar",e:"to dance",a:"toDance.mp3"},
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"pelo",e:"",a:"",i:""}
   ],54: [
