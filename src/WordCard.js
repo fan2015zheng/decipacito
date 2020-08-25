@@ -7,11 +7,7 @@ function WordCard({word}) {
   const audioRef = useRef()
 
   useEffect(() => {
-    try {
-      audioRef.current.load()
-    } catch(e) {
-      console.log(audioRef.current)
-    }
+    audioRef.current.load()
   })
   
   let image = ""
@@ -33,7 +29,7 @@ function WordCard({word}) {
   }
 
   if (!image) {
-    image = "default.jpg"
+    image = `default${random()}.jpg`
   }
   const aStyle = {
     backgroundImage: `url(./img/${image})`,
@@ -70,3 +66,7 @@ function WordCard({word}) {
 }
 
 export default WordCard
+
+function random() {
+  return Math.floor(Math.random()*4+1)
+}
