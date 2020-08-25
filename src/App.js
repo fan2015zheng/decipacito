@@ -328,7 +328,7 @@ const words ={
   ],49: [
     {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
     {s:"desnudarte",e:"undress (you)",a:"undressYou.m4a",i:""},
-    {s:"a besos",e:"with kisses",a:"withKisses.m4a",i:""}
+    {s:"a besos",e:"with kisses",a:"withKisses.m4a",i:""},
     {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ],50: [
     {s:"Firmo",e:"",a:"",i:""},
