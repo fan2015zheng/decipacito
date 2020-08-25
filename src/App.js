@@ -101,13 +101,12 @@ const words ={
     {s:"cuello",e:"",a:"",i:""},
     {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ],12: [
-    {s:"Deja",e:"",a:"",i:""},
+    {s:"deja",e:"let",a:"let.m4a",i:""},
     {s:"que",e:"that",a:"that.mp3",i:""},
-    {s:"te",e:"",a:"",i:""},
-    {s:"diga",e:"",a:"",i:""},
-    {s:"cosas",e:"",a:"",i:""},
-    {s:"al",e:"",a:"",i:""},
-    {s:"oído",e:"",a:"",i:""}
+    {s:"te diga",e:"say (to you)",a:"sayToYou.m4a",i:""},
+    {s:"cosas",e:"things",a:"things.m4a",i:""},
+    {s:"al",e:"to the",a:"toThe.m4a",i:""},
+    {s:"oído",e:"ear",a:"ear.m4a",i:""}
   ],13: [
     {s:"para que",e:"so that",a:"soThat.m4a",i:""},
     {s:"te acuerdes",e:"you remember",a:"youRemember",i:""},
