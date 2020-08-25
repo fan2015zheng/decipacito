@@ -108,7 +108,7 @@ const words ={
     {s:"oído",e:"ear",a:"ear.m4a",i:""}
   ],13: [
     {s:"para que",e:"so that",a:"soThat.m4a",i:""},
-    {s:"te acuerdes",e:"you remember",a:"youRemember",i:""},
+    {s:"te acuerdes",e:"you remember",a:"youRemember.m4a",i:""},
     {s:"si",e:"if",a:"if.m4a",i:""},
     {s:"no estás",e:"you are not",a:"youAreNot.m4a",i:""},
     {s:"conmigo",e:"with me",a:"withMe.m4a",i:""}
