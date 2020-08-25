@@ -112,7 +112,7 @@ const words ={
     {s:"te acuerdes",e:"you remember",a:"youRemember",i:""},
     {s:"si",e:"if",a:"if.m4a",i:""},
     {s:"no estás",e:"you are not",a:"youAreNot.m4a",i:""},
-    {s:"conmigo",e:"",a:"",i:""}
+    {s:"conmigo",e:"with me",a:"withMe.m4a",i:""}
   ],14: [
     {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ],15: [
@@ -162,69 +162,64 @@ const words ={
     {s:"favoritos",e:"favorite",a:"favorite.m4a",i:""},
     {s:"baby",e:"baby",a:"baby.m4a",i:""}
   ],23: [
-    {s:"déjame",e:"",a:"",i:""},
-    {s:"sobrepasar",e:"",a:"",i:""},
-    {s:"tus",e:"",a:"",i:""},
-    {s:"zonas",e:"",a:"",i:""},
+    {s:"déjame",e:"let me",a:"letMe.m4a",i:""},
+    {s:"sobrepasar",e:"to exceed",a:"exceed.m4a",i:""},
+    {s:"tus",e:"your",a:"pYour.m4a",i:""},
+    {s:"zonas",e:"areas",a:"areas.m4a",i:""},
     {s:"de",e:"of",a:"of.m4a",i:""},
-    {s:"peligro",e:"",a:"",i:""}
+    {s:"peligro",e:"danger",a:"danger.m4a",i:""}
   ],24: [
-    {s:"Hasta",e:"",a:"",i:""},
-    {s:"provocar",e:"",a:"",i:""},
-    {s:"tus",e:"",a:"",i:""},
-    {s:"gritos",e:"",a:"",i:""}
+    {s:"hasta",e:"until",a:"until.m4a",i:""},
+    {s:"provocar",e:"to cause",a:"cause.m4a",i:""},
+    {s:"tus",e:"your",a:"pYour.m4a",i:""},
+    {s:"gritos",e:"scream",a:"scream.m4a",i:""}
   ],25: [
     {s:"y",e:"and",a:"and.mp3",i:""},
     {s:"que",e:"that",a:"that.m4a",i:""},
-    {s:"olvides",e:"",a:"",i:""},
+    {s:"olvides",e:"(you) forget",a:"youForget.m4a",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
-    {s:"apellido",e:"",a:"",i:""},
-    {s:"dirididi",e:"",a:"",i:""},
-    {s:"Daddy",e:"",a:"",i:""},
-    {s:"",e:"",a:"",i:""}
+    {s:"apellido",e:"family name",a:"familyName.m4a",i:""},
   ],26: [
     {s:"si",e:"if",a:"if.m4a",i:""},
-    {s:"te",e:"",a:"",i:""},
-    {s:"pido",e:"",a:"",i:""},
+    {s:"te pido",e:"I ask you",a:"iAskYou.m4a",i:""},
     {s:"un",e:"a",a:"a.m4a",i:""},
-    {s:"beso",e:"",a:"",i:""},
-    {s:"ven",e:"",a:"",i:""},
-    {s:"dámelo",e:"",a:"",i:""}
+    {s:"beso",e:"kiss",a:"kiss2.m4a",i:""},
+    {s:"ven",e:"come",a:"come.m4a",i:""},
+    {s:"dámelo",e:"give it to me",a:"giveItToMe.m4a",i:""}
   ],27: [
-    {s:"Yo",e:"",a:"",i:""},
-    {s:"sé",e:"",a:"",i:""},
+    {s:"yo",e:"I",a:"i.mp3",i:""},
+    {s:"sé",e:"know",a:"know.m4a",i:""},
     {s:"que",e:"that",a:"that.m4a",i:""},
     {s:"estás",e:"you are",a:"youAre.m4a",i:""},
-    {s:"pensándolo",e:"",a:"",i:""}
+    {s:"pensándolo",e:"thinking",a:"thinking.m4a",i:""}
   ],28: [
-    {s:"Llevo",e:"",a:"",i:""},
-    {s:"tiempo",e:"",a:"",i:""},
-    {s:"intentándolo",e:"",a:"",i:""}
+    {s:"llevo",e:"I take",a:"haveDone.mp3"},
+    {s:"tiempo",e:"time",a:"time.m4a",i:""},
+    {s:"intentándolo",e:"trying",a:"trying.m4a",i:""}
   ],29: [
     {s:"Mami",e:"",a:"",i:""},
-    {s:"esto",e:"",a:"",i:""},
-    {s:"dando",e:"",a:"",i:""},
+    {s:"esto es",e:"this is",a:"thisIs.m4a",i:""},
+    {s:"dando",e:"giving",a:"giving.m4a",i:""},
     {s:"y",e:"and",a:"and.mp3",i:""},
-    {s:"dándolo",e:"",a:"",i:""}
+    {s:"dándolo",e:"giving it",a:"givingIt.m4a",i:""}
   ],30: [
     {s:"sabes",e:"(You) know",a:"youKnow.mp3"},
     {s:"que",e:"that",a:"that.m4a",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
-    {s:"corazón",e:"",a:"",i:""},
-    {s:"conmigo",e:"",a:"",i:""},
-    {s:"te",e:"",a:"",i:""},
-    {s:"hace",e:"",a:"",i:""},
-    {s:"bom",e:"",a:"",i:""}
+    {s:"corazón",e:"heart",a:"heart.m4a",i:""},
+    {s:"conmigo",e:"with me",a:"withMe.m4a",i:""},
+    {s:"te hace",e:"make you",a:"makeYou.m4a",i:""},
+    {s:"bom",e:"???",a:"",i:""}
   ],31: [
     {s:"sabes",e:"(You) know",a:"youKnow.mp3"},
     {s:"que",e:"that",a:"that.m4a",i:""},
     {s:"esa",e:"that",a:"that2.m4a",i:""},
-    {s:"beba",e:"",a:"",i:""},
-    {s:"está",e:"",a:"",i:""},
-    {s:"buscando",e:"",a:"",i:""},
+    {s:"beba",e:"baby",a:"baby2.m4a",i:""},
+    {s:"está",e:"she's",a:"shes.m4a",i:""},
+    {s:"buscando",e:"looking for",a:"lookingFor.m4a",i:""},
     {s:"de",e:"of",a:"of.m4a",i:""},
     {s:"mi",e:"my",a:"my.m4a",i:""},
-    {s:"bom",e:"",a:"",i:""}
+    {s:"bom",e:"???",a:"",i:""}
   ],32: [
     {s:"Ven",e:"",a:"",i:""},
     {s:"prueba",e:"",a:"",i:""},
@@ -320,7 +315,7 @@ const words ={
     {s:"te acuerdes",e:"you remember",a:"youRemember",i:""},
     {s:"si",e:"if",a:"if.m4a",i:""},
     {s:"no estás",e:"you are not",a:"youAreNot.m4a",i:""},
-    {s:"conmigo",e:"",a:"",i:""}
+    {s:"conmigo",e:"with me",a:"withMe.m4a",i:""}
   ],48: [
     {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ],49: [
