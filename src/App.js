@@ -244,7 +244,7 @@ const words ={
     {s:"a ti te cabe",e:"fit inside you",a:"fitInsideYou.m4a",i:""}
   ],34: [
     {s:"yo no",e:"I don't",a:"iDont.m4a",i:""},
-    {s:"tengo",e:"to have",a:"have.m4a",i:""},
+    {s:"tengo",e:"(I) have",a:"have.m4a",i:""},
     {s:"prisa",e:"hurry",a:"hurry.m4a",i:""},
     {s:"me",e:"myself",a:"myself.m4a",i:""},
     {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
@@ -264,13 +264,13 @@ const words ={
     {s:"nos vamos pegando",e:"we get closer",a:"weGetCloser.m4a",i:""},
     {s:"poquito a poquito",e:"little by little",a:"littleByLittle.m4a",i:""}
   ],38: [
-    {s:"cuando",e:"",a:"",i:""},
-    {s:"tú",e:"",a:"",i:""},
-    {s:"me",e:"",a:"",i:""},
-    {s:"besas",e:"",a:"",i:""},
-    {s:"con",e:"",a:"",i:""},
+    {s:"cuando",e:"when",a:"when.m4a",i:""},
+    {s:"tú",e:"you",a:"you.mp3",i:""},
+    {s:"me",e:"myself",a:"myself.m4a",i:""},
+    {s:"besas",e:"kiss",a:"kiss.m4a",i:""},
+    {s:"con",e:"with",a:"with.m4a",i:""},
     {s:"esa",e:"that",a:"that2.m4a",i:""},
-    {s:"destreza",e:"",a:"",i:""}
+    {s:"destreza",e:"skill",a:"skill.m4a",i:""}
   ],39: [
     {s:"veo",e:"",a:"",i:""},
     {s:"que",e:"that",a:"that.m4a",i:""},
@@ -294,13 +294,12 @@ const words ={
     {s:"un",e:"a",a:"a.m4a",i:""},
     {s:"rompecabezas",e:"jigsaw puzzle",a:"puzzle.m4a",i:""}
   ],43: [
-    {s:"pero",e:"",a:"",i:""},
-    {s:"pa",e:"",a:"",i:""},
-    {s:"montarlo",e:"",a:"",i:""},
-    {s:"aquí",e:"",a:"",i:""},
-    {s:"tengo",e:"",a:"",i:""},
-    {s:"la",e:"",a:"",i:""},
-    {s:"pieza",e:"",a:"",i:""}
+    {s:"pero",e:"but",a:"but.m4a",i:""},
+    {s:"pa",e:"to",a:"to.m4a",i:""},
+    {s:"montarlo",e:"put together",a:"putTogether.m4a",i:""},
+    {s:"aquí",e:"here",a:"here.m4a",i:""},
+    {s:"tengo",e:"(I) have",a:"have.m4a",i:""},
+    {s:"la pieza",e:"the piece",a:"thePiece.m4a",i:""}
   ],44: [
     {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ],45: [
@@ -310,13 +309,12 @@ const words ={
     {s:"cuello",e:"",a:"",i:""},
     {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ],46: [
-    {s:"deja",e:"",a:"",i:""},
+    {s:"deja",e:"let",a:"let.m4a",i:""},
     {s:"que",e:"that",a:"that.m4a",i:""},
-    {s:"te",e:"",a:"",i:""},
-    {s:"diga",e:"",a:"",i:""},
-    {s:"cosas",e:"",a:"",i:""},
-    {s:"al",e:"",a:"",i:""},
-    {s:"oído",e:"",a:"",i:""}
+    {s:"te diga",e:"say (to you)",a:"sayToYou.m4a",i:""},
+    {s:"cosas",e:"things",a:"things.m4a",i:""},
+    {s:"al",e:"to the",a:"toThe.m4a",i:""},
+    {s:"oído",e:"ear",a:"ear.m4a",i:""}
   ],47: [
     {s:"para que",e:"so that",a:"soThat.m4a",i:""},
     {s:"te acuerdes",e:"you remember",a:"youRemember",i:""},
