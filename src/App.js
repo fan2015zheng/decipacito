@@ -331,13 +331,12 @@ const words ={
     {s:"a besos",e:"with kisses",a:"withKisses.m4a",i:""},
     {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ],50: [
-    {s:"Firmo",e:"",a:"",i:""},
-    {s:"en",e:"",a:"",i:""},
-    {s:"las",e:"",a:"",i:""},
-    {s:"paredes",e:"",a:"",i:""},
+    {s:"firmo",e:"(I) write",a:"iWrite.m4a",i:""},
+    {s:"en",e:"on",a:"in.m4a",i:""},
+    {s:"las paredes",e:"the walls",a:"theWalls.m4a",i:""},
     {s:"de",e:"of",a:"of.m4a",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
-    {s:"laberinto",e:"",a:"",i:""}
+    {s:"laberinto",e:"labyrinth",a:"labyrinth.m4a",i:""}
   ],51: [
     {s:"y",e:"and",a:"and.mp3",i:""},
     {s:"hacer",e:"to make",a:"oToDo.m4a",i:""},
