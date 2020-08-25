@@ -196,7 +196,7 @@ const words ={
     {s:"tiempo",e:"time",a:"time.m4a",i:""},
     {s:"intentándolo",e:"trying",a:"trying.m4a",i:""}
   ],29: [
-    {s:"Mami",e:"",a:"",i:""},
+    {s:"Mami",e:"sweetheart",a:"sweetheart.m4a",i:""},
     {s:"esto es",e:"this is",a:"thisIs.m4a",i:""},
     {s:"dando",e:"giving",a:"giving.m4a",i:""},
     {s:"y",e:"and",a:"and.mp3",i:""},
