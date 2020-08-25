@@ -298,9 +298,9 @@ const words ={
     {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ],45: [
     {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
-    {s:"respirar",e:"",a:"",i:""},
+    {s:"respirar",e:"breathe",a:"breathe.m4a",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
-    {s:"cuello",e:"",a:"",i:""},
+    {s:"cuello",e:"neck",a:"neck.m4a",i:""},
     {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ],46: [
     {s:"deja",e:"let",a:"let.m4a",i:""},
