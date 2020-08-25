@@ -221,16 +221,16 @@ const words ={
     {s:"mi",e:"my",a:"my.m4a",i:""},
     {s:"bom",e:"???",a:"",i:""}
   ],32: [
-    {s:"Ven",e:"",a:"",i:""},
-    {s:"prueba",e:"",a:"",i:""},
+    {s:"ven",e:"come",a:"come.m4a",i:""},
+    {s:"prueba",e:"taste",a:"taste.m4a",i:""},
     {s:"de",e:"of",a:"of.m4a",i:""},
     {s:"mi",e:"my",a:"my.m4a",i:""},
     {s:"boca",e:"mouth",a:"mouth.m4a",i:""},
-    {s:"para",e:"",a:"",i:""},
+    {s:"para",e:"for",a:"for.m4a",i:""},
     {s:"ver",e:"to see",a:"see.m4a",i:""},
-    {s:"cómo",e:"",a:"",i:""},
-    {s:"te",e:"",a:"",i:""},
-    {s:"sabe",e:"",a:"",i:""}
+    {s:"cómo",e:"what",a:"what.m4a",i:""},
+    {s:"te",e:"you",a:"you.m4a",i:""},
+    {s:"sabe",e:"find out/taste",a:"findOut.m4a",i:""}
   ],33: [
     {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
     {s:"ver",e:"to see",a:"see.m4a",i:""},
@@ -267,12 +267,12 @@ const words ={
     {s:"esa",e:"that",a:"that2.m4a",i:""},
     {s:"destreza",e:"skill",a:"skill.m4a",i:""}
   ],39: [
-    {s:"veo",e:"",a:"",i:""},
+    {s:"veo",e:"I see",a:"iSee.m4a",i:""},
     {s:"que",e:"that",a:"that.m4a",i:""},
-    {s:"eres",e:"",a:"",i:""},
-    {s:"malicia",e:"",a:"",i:""},
-    {s:"con",e:"",a:"",i:""},
-    {s:"delicadeza",e:"",a:"",i:""}
+    {s:"eres",e:"(you) are",a:"youAre.mp3",i:""},
+    {s:"malicia",e:"mischief",a:"mischief.m4a",i:""},
+    {s:"con",e:"with",a:"with.m4a",i:""},
+    {s:"delicadeza",e:"kindness",a:"kindness.m4a",i:""}
   ],40: [
     {s:"pasito a pasito",e:"step by step",a:"",i:""},
     {s:"suave",e:"soft",a:"soft.m4a",i:""},
@@ -347,12 +347,12 @@ const words ={
     {s:"ver",e:"to see",a:"see.m4a",i:""},
     {s:"bailar",e:"to dance",a:"toDance.mp3"},
     {s:"tu",e:"your",a:"your.mp3",i:""},
-    {s:"pelo",e:"",a:"",i:""}
+    {s:"pelo",e:"hair",a:"hair.m4a",i:""}
   ],54: [
     {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
-    {s:"ser",e:"",a:"",i:""},
+    {s:"ser",e:"to be",a:"toBe.m4a",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
-    {s:"ritmo",e:"",a:"",i:""}
+    {s:"ritmo",e:"rhythm",a:"rhythm.m4a",i:""}
   ],55: [
     {s:"que",e:"(so) that",a:"that.m4a",i:""},
     {s:"enseñes",e:"(you) teach",a:"youTeach.m4a",i:""},
