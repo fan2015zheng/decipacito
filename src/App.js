@@ -143,12 +143,12 @@ const words ={
     {s:"ver",e:"to see",a:"see.m4a",i:""},
     {s:"bailar",e:"to dance",a:"toDance.mp3"},
     {s:"tu",e:"your",a:"your.mp3",i:""},
-    {s:"pelo",e:"",a:"",i:""}
+    {s:"pelo",e:"hair",a:"hair.m4a",i:""}
   ],20: [
     {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
-    {s:"ser",e:"",a:"",i:""},
+    {s:"ser",e:"to be",a:"toBe.m4a",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
-    {s:"ritmo",e:"",a:"",i:""}
+    {s:"ritmo",e:"rhythm",a:"rhythm.m4a",i:""}
   ],21: [
     {s:"que",e:"(so) that",a:"that.m4a",i:""},
     {s:"enseñes",e:"(you) teach",a:"youTeach.m4a",i:""},
