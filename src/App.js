@@ -85,13 +85,12 @@ const words ={
     {s:"pidiendo",e:"asking",a:"asking.m4a",i:""},
     {s:"más",e:"more",a:"more.mp3",i:""}
   ],9: [
-    {s:"Esto",e:"",a:"",i:""},
-    {s:"hay",e:"",a:"",i:""},
-    {s:"que",e:"that",a:"that.m4a",i:""},
-    {s:"tomarlo",e:"",a:"",i:""},
-    {s:"sin",e:"",a:"",i:""},
-    {s:"ningún",e:"",a:"",i:""},
-    {s:"apuro",e:"",a:"",i:""}
+    {s:"esto",e:"this",a:"this.m4a",i:""},
+    {s:"hay que",e:"should",a:"should.m4a",i:""},
+    {s:"tomarlo",e:"take it",a:"takeIt.m4a",i:""},
+    {s:"sin",e:"without",a:"without.m4a",i:""},
+    {s:"ningún",e:"any",a:"any.m4a",i:""},
+    {s:"apuro",e:"predicament",a:"predicament.m4a",i:""}
   ],10: [
     {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ],11: [
