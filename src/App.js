@@ -93,13 +93,13 @@ const words ={
     {s:"ningún",e:"",a:"",i:""},
     {s:"apuro",e:"",a:"",i:""}
   ],10: [
-    {s:"despacito",e:"",a:"",i:""}
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ],11: [
-    {s:"Quiero",e:"",a:"",i:""},
+    {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
     {s:"respirar",e:"",a:"",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"cuello",e:"",a:"",i:""},
-    {s:"despacito",e:"",a:"",i:""}
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ],12: [
     {s:"Deja",e:"",a:"",i:""},
     {s:"que",e:"that",a:"that.mp3",i:""},
@@ -118,13 +118,12 @@ const words ={
     {s:"estás",e:"",a:"",i:""},
     {s:"conmigo",e:"",a:"",i:""}
   ],14: [
-    {s:"despacito",e:"",a:"",i:""}
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ],15: [
-    {s:"quiero",e:"",a:"",i:""},
-    {s:"desnudarte",e:"",a:"",i:""},
-    {s:"a",e:"",a:"",i:""},
-    {s:"besos",e:"",a:"",i:""},
-    {s:"despacito",e:"",a:"",i:""}
+    {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
+    {s:"desnudarte",e:"undress (you)",a:"undressYou.m4a",i:""},
+    {s:"a besos",e:"with kisses",a:"withKisses.m4a",i:""},
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ],16: [
     {s:"Firmo",e:"",a:"",i:""},
     {s:"en",e:"",a:"",i:""},
@@ -135,24 +134,24 @@ const words ={
     {s:"laberinto",e:"",a:"",i:""}
   ],17: [
     {s:"y",e:"and",a:"and.mp3",i:""},
-    {s:"hacer",e:"",a:"",i:""},
+    {s:"hacer",e:"to make",a:"oToDo.m4a",i:""},
     {s:"de",e:"of",a:"of.m4a",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
-    {s:"cuerpo",e:"",a:"",i:""},
-    {s:"todo",e:"",a:"",i:""},
-    {s:"un",e:"",a:"",i:""},
-    {s:"manuscrito",e:"",a:"",i:""},
+    {s:"cuerpo",e:"body",a:"body.m4a",i:""},
+    {s:"todo",e:"all",a:"sAll.m4a",i:""},
+    {s:"un",e:"a",a:"a.m4a",i:""},
+    {s:"manuscrito",e:"manuscript",a:"manuscript.m4a",i:""},
     {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:""}
   ],18: [
     {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:""}
   ],19: [
-    {s:"Quiero",e:"",a:"",i:""},
+    {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
     {s:"ver",e:"",a:"",i:""},
     {s:"bailar",e:"",a:"",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"pelo",e:"",a:"",i:""}
   ],20: [
-    {s:"Quiero",e:"",a:"",i:""},
+    {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
     {s:"ser",e:"",a:"",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"ritmo",e:"",a:"",i:""}
@@ -243,7 +242,7 @@ const words ={
     {s:"te",e:"",a:"",i:""},
     {s:"sabe",e:"",a:"",i:""}
   ],33: [
-    {s:"quiero",e:"",a:"",i:""},
+    {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
     {s:"ver",e:"",a:"",i:""},
     {s:"cuánto",e:"",a:"",i:""},
     {s:"amor",e:"",a:"",i:""},
@@ -257,7 +256,7 @@ const words ={
     {s:"tengo",e:"",a:"",i:""},
     {s:"prisa",e:"",a:"",i:""},
     {s:"me",e:"",a:"",i:""},
-    {s:"quiero",e:"",a:"",i:""},
+    {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
     {s:"dar",e:"",a:"",i:""},
     {s:"el",e:"",a:"",i:""},
     {s:"viaje",e:"",a:"",i:""}
@@ -320,13 +319,13 @@ const words ={
     {s:"la",e:"",a:"",i:""},
     {s:"pieza",e:"",a:"",i:""}
   ],44: [
-    {s:"despacito",e:"",a:"",i:""}
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ],45: [
-    {s:"quiero",e:"",a:"",i:""},
+    {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
     {s:"respirar",e:"",a:"",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"cuello",e:"",a:"",i:""},
-    {s:"despacito",e:"",a:"",i:""}
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ],46: [
     {s:"deja",e:"",a:"",i:""},
     {s:"que",e:"that",a:"that.mp3",i:""},
@@ -345,13 +344,12 @@ const words ={
     {s:"estás",e:"",a:"",i:""},
     {s:"conmigo",e:"",a:"",i:""}
   ],48: [
-    {s:"despacito",e:"",a:"",i:""}
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ],49: [
-    {s:"quiero",e:"",a:"",i:""},
-    {s:"desnudarte",e:"",a:"",i:""},
-    {s:"a",e:"",a:"",i:""},
-    {s:"besos",e:"",a:"",i:""},
-    {s:"despacito",e:"",a:"",i:""}
+    {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
+    {s:"desnudarte",e:"undress (you)",a:"undressYou.m4a",i:""},
+    {s:"a besos",e:"with kisses",a:"withKisses.m4a",i:""}
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
   ],50: [
     {s:"Firmo",e:"",a:"",i:""},
     {s:"en",e:"",a:"",i:""},
@@ -362,24 +360,24 @@ const words ={
     {s:"laberinto",e:"",a:"",i:""}
   ],51: [
     {s:"y",e:"and",a:"and.mp3",i:""},
-    {s:"hacer",e:"",a:"",i:""},
+    {s:"hacer",e:"to make",a:"oToDo.m4a",i:""},
     {s:"de",e:"of",a:"of.m4a",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
-    {s:"cuerpo",e:"",a:"",i:""},
-    {s:"todo",e:"",a:"",i:""},
-    {s:"un",e:"",a:"",i:""},
-    {s:"manuscrito",e:"",a:"",i:""},
+    {s:"cuerpo",e:"body",a:"body.m4a",i:""},
+    {s:"todo",e:"all",a:"sAll.m4a",i:""},
+    {s:"un",e:"a",a:"a.m4a",i:""},
+    {s:"manuscrito",e:"manuscript",a:"manuscript.m4a",i:""},
     {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:""}
   ],52: [
     {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:""}
   ],53: [
-    {s:"quiero",e:"",a:"",i:""},
+    {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
     {s:"ver",e:"",a:"",i:""},
     {s:"bailar",e:"",a:"",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"pelo",e:"",a:"",i:""}
   ],54: [
-    {s:"quiero",e:"",a:"",i:""},
+    {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
     {s:"ser",e:"",a:"",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"ritmo",e:"",a:"",i:""}
