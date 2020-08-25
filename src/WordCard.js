@@ -4,9 +4,11 @@ import './WordCard.css'
 function WordCard({word}) {
 
   const [showEng, setShowEng] = useState(false)
+  const [defaultImage, setDefaultImage] = useState("")
   const audioRef = useRef()
 
   useEffect(() => {
+    console.log("load")
     audioRef.current.load()
   })
   
@@ -29,7 +31,12 @@ function WordCard({word}) {
   }
 
   if (!image) {
-    image = `default${random()}.jpg`
+    if (defaultImage) {
+      image = defaultImage
+    } else  {
+      image = `default${random()}.jpg`
+      setDefaultImage(image)  //will cause render
+    }
   }
   const aStyle = {
     backgroundImage: `url(./img/${image})`,
