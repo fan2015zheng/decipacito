@@ -63,7 +63,7 @@ const words ={
     {s:"el",e:"the",a:"the.mp3",i:""},
     {s:"plan",e:"plan",a:"plan.mp3",i:""}
   ],6: [
-    {s:"solo",e:"alone",a:"along.mp3",i:""},
+    {s:"solo",e:"alone",a:"alone.mp3",i:""},
     {s:"con",e:"with",a:"with.mp3",i:""},
     {s:"pensarlo",e:"thinking",a:"thinking.mp3",i:""},
     {s:"se",e:"itself",a:"itself.mp3",i:""},
