@@ -19,26 +19,26 @@ export default App;
 
 const words ={
   0: [
-    {s:"sí",e:"yes",a:"yes.mp3"},
+    {s:"sí",e:"yes",a:"yes.mp3",i:"yes.jpg"},
     {s:"sabes",e:"(You) know",a:"youKnow.mp3"},
     {s:"que",e:"that",a:"that.m4a"},
     {s:"ya",e:"already",a:"already.mp3"},
     {s:"llevo",e:"have (done)",a:"haveDone.mp3"},
-    {s:"un rato",e:"a while",a:"aWhile.mp3"},
-    {s:"mirándote",e:"looking at you",a:"lookingAtYou.mp3"}
+    {s:"un rato",e:"a while",a:"aWhile.mp3",i:"aWhile.jpg"},
+    {s:"mirándote",e:"looking at you",a:"lookingAtYou.mp3",i:"lookingAtYou.jpg"}
   ],1: [
     {s:"tengo que",e:"(I) have to",a:"iHaveTo.mp3"},
-    {s:"bailar",e:"to dance",a:"toDance.mp3"},
-    {s:"contigo",e:"with you",a:"withYou.mp3"},
-    {s:"hoy",e:"today",a:"today.mp3"}
+    {s:"bailar",e:"to dance",a:"toDance.mp3",i:"dance.jpg"},
+    {s:"contigo",e:"with you",a:"withYou.mp3",i:"withYou.jpg"},
+    {s:"hoy",e:"today",a:"today.mp3",i:"today.jpg"}
   ],2: [
-    {s:"vi",e:"(I) saw",a:"iSaw.mp3",i:""},
+    {s:"vi",e:"(I) saw",a:"iSaw.mp3",i:"iSaw.jpg"},
     {s:"que",e:"that",a:"that.m4a",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"mirada",e:"look",a:"look.mp3",i:""},
     {s:"ya",e:"already",a:"already.mp3",i:""},
     {s:"estaba",e:"was",a:"was.mp3",i:""},
-    {s:"llamándome",e:"calling me",a:"callingMe.mp3",i:""}
+    {s:"llamándome",e:"calling me",a:"callingMe.mp3",i:"callingMe.jpg"}
   ],3: [
     {s:"muéstrame",e:"show me",a:"showMe.mp3",i:""},
     {s:"el",e:"the",a:"the.mp3",i:""},
@@ -50,37 +50,37 @@ const words ={
     {s:"tú",e:"you",a:"you.mp3",i:""},
     {s:"eres",e:"(you) are",a:"youAre.mp3",i:""},
     {s:"el",e:"the",a:"the.mp3",i:""},
-    {s:"imán",e:"magnet",a:"magnet.mp3",i:""},
+    {s:"imán",e:"magnet",a:"magnet.mp3",i:"magnet.jpg"},
     {s:"y",e:"and",a:"and.mp3",i:""},
     {s:"yo",e:"I",a:"i.mp3",i:""},
     {s:"soy",e:"(I) am",a:"iAm.mp3",i:""},
-    {s:"metal",e:"metal",a:"metal.mp3",i:""}
+    {s:"metal",e:"metal",a:"metal.mp3",i:"metal.jpg"}
   ],5: [
-    {s:"Me voy",e:"I'm going",a:"imGoing.mp3",i:""},
+    {s:"me voy",e:"I'm going",a:"imGoing.mp3",i:""},
     {s:"acercando",e:"getting closer",a:"gettingCloser.mp3",i:""},
     {s:"y",e:"and",a:"and.mp3",i:""},
     {s:"armando",e:"put together",a:"putTogether.mp3",i:""},
     {s:"el",e:"the",a:"the.mp3",i:""},
-    {s:"plan",e:"plan",a:"plan.mp3",i:""}
+    {s:"plan",e:"plan",a:"plan.mp3",i:"plan.jpg"}
   ],6: [
-    {s:"solo",e:"alone",a:"alone.mp3",i:""},
+    {s:"solo",e:"alone",a:"alone.mp3",i:"alone.jpg"},
     {s:"con",e:"with",a:"with.mp3",i:""},
-    {s:"pensarlo",e:"thinking",a:"thinking.mp3",i:""},
+    {s:"pensarlo",e:"thinking",a:"thinking.mp3",i:"thinking.jpg"},
     {s:"se",e:"itself",a:"itself.mp3",i:""},
-    {s:"acelera",e:"accelerate",a:"accelerate.mp3",i:""},
+    {s:"acelera",e:"accelerate",a:"accelerate.mp3",i:"accelerate.jpg"},
     {s:"el",e:"the",a:"the.mp3",i:""},
-    {s:"pulso",e:"pulse",a:"pulse.mp3",i:""}
+    {s:"pulso",e:"pulse",a:"pulse.mp3",i:"pulse.jpg"}
   ],7: [
     {s:"ya",e:"already",a:"already.mp3",i:""},
     {s:"me está gustando",e:"I'm liking it",a:"iAmLikingIt.mp3",i:""},
-    {s:"gustando",e:"liking",a:"liking.mp3",i:""},
+    {s:"gustando",e:"liking",a:"liking.mp3",i:"liking.jpg"},
     {s:"más",e:"more",a:"more.mp3",i:""},
     {s:"más de lo normal",e:"more than normal",a:"moreThanNormal.mp3",i:""},
     {s:"normal",e:"normal",a:"normal.mp3",i:""}
   ],8: [
     {s:"Todos",e:"all",a:"all.m4a",i:""},
     {s:"mis",e:"my",a:"pMy.m4a",i:""},
-    {s:"sentidos",e:"senses",a:"senses.m4a",i:""},
+    {s:"sentidos",e:"senses",a:"senses.m4a",i:"senses.jpg"},
     {s:"van",e:"(they) go",a:"theyGo.m4a",i:""},
     {s:"pidiendo",e:"asking",a:"asking.m4a",i:""},
     {s:"más",e:"more",a:"more.mp3",i:""}
@@ -92,40 +92,40 @@ const words ={
     {s:"ningún",e:"any",a:"any.m4a",i:""},
     {s:"apuro",e:"predicament",a:"predicament.m4a",i:""}
   ],10: [
-    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:"slowly.jpg"}
   ],11: [
     {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
-    {s:"respirar",e:"breathe",a:"breathe.m4a",i:""},
+    {s:"respirar",e:"breathe",a:"breathe.m4a",i:"breathe.jpg"},
     {s:"tu",e:"your",a:"your.mp3",i:""},
-    {s:"cuello",e:"neck",a:"neck.m4a",i:""},
-    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
+    {s:"cuello",e:"neck",a:"neck.m4a",i:"neck.jpg"},
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:"slowly.jpg"}
   ],12: [
     {s:"deja",e:"let",a:"let.m4a",i:""},
     {s:"que",e:"that",a:"that.m4a",i:""},
     {s:"te diga",e:"say (to you)",a:"sayToYou.m4a",i:""},
     {s:"cosas",e:"things",a:"things.m4a",i:""},
     {s:"al",e:"to the",a:"toThe.m4a",i:""},
-    {s:"oído",e:"ear",a:"ear.m4a",i:""}
+    {s:"oído",e:"ear",a:"ear.m4a",i:"ear.jpg"}
   ],13: [
     {s:"para que",e:"so that",a:"soThat.m4a",i:""},
     {s:"te acuerdes",e:"you remember",a:"youRemember.m4a",i:""},
     {s:"si",e:"if",a:"if.m4a",i:""},
     {s:"no estás",e:"you are not",a:"youAreNot.m4a",i:""},
-    {s:"conmigo",e:"with me",a:"withMe.m4a",i:""}
+    {s:"conmigo",e:"with me",a:"withMe.m4a",i:"withMe.jpg"}
   ],14: [
-    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:"slowly.jpg"}
   ],15: [
     {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
     {s:"desnudarte",e:"undress (you)",a:"undressYou.m4a",i:""},
-    {s:"a besos",e:"with kisses",a:"withKisses.m4a",i:""},
-    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
+    {s:"a besos",e:"with kisses",a:"withKisses.m4a",i:"kiss.jpg"},
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:"slowly.jpg"}
   ],16: [
-    {s:"firmo",e:"(I) write",a:"iWrite.m4a",i:""},
+    {s:"firmo",e:"(I) write",a:"iWrite.m4a",i:"iWrite.jpg"},
     {s:"en",e:"on",a:"in.m4a",i:""},
     {s:"las paredes",e:"the walls",a:"theWalls.m4a",i:""},
     {s:"de",e:"of",a:"of.m4a",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
-    {s:"laberinto",e:"labyrinth",a:"labyrinth.m4a",i:""}
+    {s:"laberinto",e:"labyrinth",a:"labyrinth.m4a",i:"labyrinth.jpg"}
   ],17: [
     {s:"y",e:"and",a:"and.mp3",i:""},
     {s:"hacer",e:"to make",a:"oToDo.m4a",i:""},
@@ -134,14 +134,14 @@ const words ={
     {s:"cuerpo",e:"body",a:"body.m4a",i:""},
     {s:"todo",e:"all",a:"sAll.m4a",i:""},
     {s:"un",e:"a",a:"a.m4a",i:""},
-    {s:"manuscrito",e:"manuscript",a:"manuscript.m4a",i:""},
-    {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:""}
+    {s:"manuscrito",e:"manuscript",a:"manuscript.m4a",i:"manuscript.jpg"},
+    {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:"goUp.jpg"}
   ],18: [
-    {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:""}
+    {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:"goUp.jpg"}
   ],19: [
     {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
     {s:"ver",e:"to see",a:"see.m4a",i:""},
-    {s:"bailar",e:"to dance",a:"toDance.mp3"},
+    {s:"bailar",e:"to dance",a:"toDance.mp3",i:"dance.jpg"},
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"pelo",e:"hair",a:"hair.m4a",i:""}
   ],20: [
@@ -154,7 +154,7 @@ const words ={
     {s:"enseñes",e:"(you) teach",a:"youTeach.m4a",i:""},
     {s:"le enseñes a mi boca",e:"show my mouth",a:"showMyMouth.m4a",i:""},
     {s:"mi",e:"my",a:"my.m4a",i:""},
-    {s:"boca",e:"mouth",a:"mouth.m4a",i:""}
+    {s:"boca",e:"mouth",a:"mouth.m4a",i:"mouth.jpg"}
   ],22: [
     {s:"tus",e:"your",a:"pYour.m4a",i:""},
     {s:"lugares",e:"places",a:"places.m4a",i:""},
@@ -166,7 +166,7 @@ const words ={
     {s:"tus",e:"your",a:"pYour.m4a",i:""},
     {s:"zonas",e:"areas",a:"areas.m4a",i:""},
     {s:"de",e:"of",a:"of.m4a",i:""},
-    {s:"peligro",e:"danger",a:"danger.m4a",i:""}
+    {s:"peligro",e:"danger",a:"danger.m4a",i:"danger.jpg"}
   ],24: [
     {s:"hasta",e:"until",a:"until.m4a",i:""},
     {s:"provocar",e:"to cause",a:"cause.m4a",i:""},
@@ -182,7 +182,7 @@ const words ={
     {s:"si",e:"if",a:"if.m4a",i:""},
     {s:"te pido",e:"I ask you",a:"iAskYou.m4a",i:""},
     {s:"un",e:"a",a:"a.m4a",i:""},
-    {s:"beso",e:"kiss",a:"kiss2.m4a",i:""},
+    {s:"beso",e:"kiss",a:"kiss2.m4a",i:"kiss.jpg"},
     {s:"ven",e:"come",a:"come.m4a",i:""},
     {s:"dámelo",e:"give it to me",a:"giveItToMe.m4a",i:""}
   ],27: [
@@ -206,7 +206,7 @@ const words ={
     {s:"que",e:"that",a:"that.m4a",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"corazón",e:"heart",a:"heart.m4a",i:""},
-    {s:"conmigo",e:"with me",a:"withMe.m4a",i:""},
+    {s:"conmigo",e:"with me",a:"withMe.m4a",i:"withMe.jpg"},
     {s:"te hace",e:"make you",a:"makeYou.m4a",i:""},
     {s:"bom",e:"???",a:"",i:""}
   ],31: [
@@ -224,7 +224,7 @@ const words ={
     {s:"prueba",e:"taste",a:"taste.m4a",i:""},
     {s:"de",e:"of",a:"of.m4a",i:""},
     {s:"mi",e:"my",a:"my.m4a",i:""},
-    {s:"boca",e:"mouth",a:"mouth.m4a",i:""},
+    {s:"boca",e:"mouth",a:"mouth.m4a",i:"mouth.jpg"},
     {s:"para",e:"for",a:"for.m4a",i:""},
     {s:"ver",e:"to see",a:"see.m4a",i:""},
     {s:"cómo",e:"what",a:"what.m4a",i:""},
@@ -249,7 +249,7 @@ const words ={
     {s:"empecemos",e:"(we) begin",a:"weBegin.m4a",i:""},
     {s:"lento",e:"slow",a:"slow.m4a",i:""},
     {s:"después",e:"then",a:"then.m4a",i:""},
-    {s:"salvaje",e:"wild",a:"wild.m4a",i:""}
+    {s:"salvaje",e:"wild",a:"wild.m4a",i:"wild.jpg"}
   ],36: [
     {s:"pasito a pasito",e:"step by step",a:"stepByStep.m4a",i:""},
     {s:"suave",e:"soft",a:"soft.m4a",i:""},
@@ -261,7 +261,7 @@ const words ={
     {s:"cuando",e:"when",a:"when.m4a",i:""},
     {s:"tú",e:"you",a:"you.mp3",i:""},
     {s:"me",e:"myself",a:"myself.m4a",i:""},
-    {s:"besas",e:"kiss",a:"kiss.m4a",i:""},
+    {s:"besas",e:"kiss",a:"kiss.m4a",i:"kiss.jpg"},
     {s:"con",e:"with",a:"with.m4a",i:""},
     {s:"esa",e:"that",a:"that2.m4a",i:""},
     {s:"destreza",e:"skill",a:"skill.m4a",i:""}
@@ -295,40 +295,40 @@ const words ={
     {s:"tengo",e:"(I) have",a:"have.m4a",i:""},
     {s:"la pieza",e:"the piece",a:"thePiece.m4a",i:""}
   ],44: [
-    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:"slowly.jpg"}
   ],45: [
     {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
-    {s:"respirar",e:"breathe",a:"breathe.m4a",i:""},
+    {s:"respirar",e:"breathe",a:"breathe.m4a",i:"breathe.jpg"},
     {s:"tu",e:"your",a:"your.mp3",i:""},
-    {s:"cuello",e:"neck",a:"neck.m4a",i:""},
-    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
+    {s:"cuello",e:"neck",a:"neck.m4a",i:"neck.jpg"},
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:"slowly.jpg"}
   ],46: [
     {s:"deja",e:"let",a:"let.m4a",i:""},
     {s:"que",e:"that",a:"that.m4a",i:""},
     {s:"te diga",e:"say (to you)",a:"sayToYou.m4a",i:""},
     {s:"cosas",e:"things",a:"things.m4a",i:""},
     {s:"al",e:"to the",a:"toThe.m4a",i:""},
-    {s:"oído",e:"ear",a:"ear.m4a",i:""}
+    {s:"oído",e:"ear",a:"ear.m4a",i:"ear.jpg"}
   ],47: [
     {s:"para que",e:"so that",a:"soThat.m4a",i:""},
     {s:"te acuerdes",e:"you remember",a:"youRemember.m4a",i:""},
     {s:"si",e:"if",a:"if.m4a",i:""},
     {s:"no estás",e:"you are not",a:"youAreNot.m4a",i:""},
-    {s:"conmigo",e:"with me",a:"withMe.m4a",i:""}
+    {s:"conmigo",e:"with me",a:"withMe.m4a",i:"withMe.jpg"}
   ],48: [
-    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:"slowly.jpg"}
   ],49: [
     {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
     {s:"desnudarte",e:"undress (you)",a:"undressYou.m4a",i:""},
-    {s:"a besos",e:"with kisses",a:"withKisses.m4a",i:""},
-    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
+    {s:"a besos",e:"with kisses",a:"withKisses.m4a",i:"kiss.jpg"},
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:"slowly.jpg"}
   ],50: [
-    {s:"firmo",e:"(I) write",a:"iWrite.m4a",i:""},
+    {s:"firmo",e:"(I) write",a:"iWrite.m4a",i:"iWrite.jpg"},
     {s:"en",e:"on",a:"in.m4a",i:""},
     {s:"las paredes",e:"the walls",a:"theWalls.m4a",i:""},
     {s:"de",e:"of",a:"of.m4a",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
-    {s:"laberinto",e:"labyrinth",a:"labyrinth.m4a",i:""}
+    {s:"laberinto",e:"labyrinth",a:"labyrinth.m4a",i:"labyrinth.jpg"}
   ],51: [
     {s:"y",e:"and",a:"and.mp3",i:""},
     {s:"hacer",e:"to make",a:"oToDo.m4a",i:""},
@@ -337,14 +337,14 @@ const words ={
     {s:"cuerpo",e:"body",a:"body.m4a",i:""},
     {s:"todo",e:"all",a:"sAll.m4a",i:""},
     {s:"un",e:"a",a:"a.m4a",i:""},
-    {s:"manuscrito",e:"manuscript",a:"manuscript.m4a",i:""},
-    {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:""}
+    {s:"manuscrito",e:"manuscript",a:"manuscript.m4a",i:"manuscript.jpg"},
+    {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:"goUp.jpg"}
   ],52: [
-    {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:""}
+    {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:"goUp.jpg"}
   ],53: [
     {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
     {s:"ver",e:"to see",a:"see.m4a",i:""},
-    {s:"bailar",e:"to dance",a:"toDance.mp3"},
+    {s:"bailar",e:"to dance",a:"toDance.mp3",i:"dance.jpg"},
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"pelo",e:"hair",a:"hair.m4a",i:""}
   ],54: [
@@ -357,7 +357,7 @@ const words ={
     {s:"enseñes",e:"(you) teach",a:"youTeach.m4a",i:""},
     {s:"le enseñes a mi boca",e:"show my mouth",a:"showMyMouth.m4a",i:""},
     {s:"mi",e:"my",a:"my.m4a",i:""},
-    {s:"boca",e:"mouth",a:"mouth.m4a",i:""}
+    {s:"boca",e:"mouth",a:"mouth.m4a",i:"mouth.jpg"}
   ],56: [
     {s:"tus",e:"your",a:"pYour.m4a",i:""},
     {s:"lugares",e:"places",a:"places.m4a",i:""},
@@ -369,7 +369,7 @@ const words ={
     {s:"tus",e:"your",a:"pYour.m4a",i:""},
     {s:"zonas",e:"areas",a:"areas.m4a",i:""},
     {s:"de",e:"of",a:"of.m4a",i:""},
-    {s:"peligro",e:"danger",a:"danger.m4a",i:""}
+    {s:"peligro",e:"danger",a:"danger.m4a",i:"danger.jpg"}
   ],58: [
     {s:"hasta",e:"until",a:"until.m4a",i:""},
     {s:"provocar",e:"to cause",a:"cause.m4a",i:""},
@@ -382,28 +382,28 @@ const words ={
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"apellido",e:"family name",a:"familyName.m4a",i:""}
   ],60: [
-    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:"slowly.jpg"}
   ],61: [
     {s:"vamos a",e:"let's",a:"lets.m4a",i:""},
     {s:"hacerlo",e:"to do it",a:"doIt.m4a",i:""},
     {s:"en",e:"on",a:"in.m4a",i:""},
     {s:"una",e:"a",a:"gA.m4a",i:""},
-    {s:"playa",e:"beach",a:"beach.m4a",i:""},
+    {s:"playa",e:"beach",a:"beach.m4a",i:"beach.jpg"},
     {s:"en",e:"in",a:"in.m4a",i:""},
-    {s:"Puerto Rico",e:"Puerto Rico",a:"puertoRico.m4a",i:""}
+    {s:"Puerto Rico",e:"Puerto Rico",a:"puertoRico.m4a",i:"puertoRico.jpg"}
   ],62: [
     {s:"hasta",e:"until",a:"until.m4a",i:""},
     {s:"que",e:"that",a:"that.m4a",i:""},
     {s:"las",e:"the",a:"pThe.m4a",i:""},
-    {s:"olas",e:"(sea) waves",a:"seaWaves.m4a",i:""},
-    {s:"griten",e:"(they) scream",a:"theyScream.m4a",i:""},
+    {s:"olas",e:"(sea) waves",a:"seaWaves.m4a",i:"seaWaves.jpg"},
+    {s:"griten",e:"(they) scream",a:"theyScream.m4a",i:"theyScream.jpg"},
     {s:"¡ay bendito",e:"Oh God",a:"ohGod.m4a",i:""}
   ],63: [
     {s:"para que",e:"so that",a:"soThat.m4a",i:""},
     {s:"mi",e:"my",a:"my.m4a",i:""},
-    {s:"sello",e:"seal/mark",a:"seal.m4a",i:""},
-    {s:"se quede",e:"to stay",a:"stay.m4a",i:""},
-    {s:"contigo",e:"with you",a:"withYou.mp3",i:""}
+    {s:"sello",e:"seal/mark",a:"seal.m4a",i:"seal.jpg"},
+    {s:"se quede",e:"to stay",a:"stay.m4a",i:"stay.jpg"},
+    {s:"contigo",e:"with you",a:"withYou.mp3",i:"withYou.jpg"}
   ],64: [
     {s:"pasito a pasito",e:"step by step",a:"stepByStep.m4a",i:""},
     {s:"suave",e:"soft",a:"soft.m4a",i:""},
@@ -416,7 +416,7 @@ const words ={
     {s:"enseñes",e:"(you) teach",a:"youTeach.m4a",i:""},
     {s:"le enseñes a mi boca",e:"show my mouth",a:"showMyMouth.m4a",i:""},
     {s:"mi",e:"my",a:"my.m4a",i:""},
-    {s:"boca",e:"mouth",a:"mouth.m4a",i:""}
+    {s:"boca",e:"mouth",a:"mouth.m4a",i:"mouth.jpg"}
   ],67: [
     {s:"tus",e:"your",a:"pYour.m4a",i:""},
     {s:"lugares",e:"places",a:"places.m4a",i:""},
@@ -441,7 +441,7 @@ const words ={
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"apellido",e:"family name",a:"familyName.m4a",i:""}
   ],72: [
-    {s:"despacito",e:"slowly",a:"slowly.m4a",i:""}
+    {s:"despacito",e:"slowly",a:"slowly.m4a",i:"slowly.jpg"}
   ]
 
 }
