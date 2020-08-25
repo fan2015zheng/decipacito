@@ -251,7 +251,7 @@ const words ={
     {s:"después",e:"then",a:"then.m4a",i:""},
     {s:"salvaje",e:"wild",a:"wild.m4a",i:""}
   ],36: [
-    {s:"pasito a pasito",e:"step by step",a:"",i:""},
+    {s:"pasito a pasito",e:"step by step",a:"stepByStep.m4a",i:""},
     {s:"suave",e:"soft",a:"soft.m4a",i:""},
     {s:"suavecito",e:"softly",a:"softly.m4a",i:""}
   ],37: [
@@ -273,7 +273,7 @@ const words ={
     {s:"con",e:"with",a:"with.m4a",i:""},
     {s:"delicadeza",e:"kindness",a:"kindness.m4a",i:""}
   ],40: [
-    {s:"pasito a pasito",e:"step by step",a:"",i:""},
+    {s:"pasito a pasito",e:"step by step",a:"stepByStep.m4a",i:""},
     {s:"suave",e:"soft",a:"soft.m4a",i:""},
     {s:"suavecito",e:"softly",a:"softly.m4a",i:""}
   ],41: [
@@ -405,7 +405,7 @@ const words ={
     {s:"se quede",e:"to stay",a:"stay.m4a",i:""},
     {s:"contigo",e:"with you",a:"withYou.mp3",i:""}
   ],64: [
-    {s:"pasito a pasito",e:"step by step",a:"",i:""},
+    {s:"pasito a pasito",e:"step by step",a:"stepByStep.m4a",i:""},
     {s:"suave",e:"soft",a:"soft.m4a",i:""},
     {s:"suavecito",e:"softly",a:"softly.m4a",i:""}
   ],65: [
@@ -423,7 +423,7 @@ const words ={
     {s:"favoritos",e:"favorite",a:"favorite.m4a",i:""},
     {s:"baby",e:"baby",a:"baby.m4a",i:""}
   ],68: [
-    {s:"pasito a pasito",e:"step by step",a:"",i:""},
+    {s:"pasito a pasito",e:"step by step",a:"stepByStep.m4a",i:""},
     {s:"suave",e:"soft",a:"soft.m4a",i:""},
     {s:"suavecito",e:"softly",a:"softly.m4a",i:""}
   ],69: [
