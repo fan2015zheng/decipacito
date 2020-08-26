@@ -35,32 +35,32 @@ const words ={
     {s:"vi",e:"(I) saw",a:"iSaw.mp3",i:"iSaw.jpg"},
     {s:"que",e:"that",a:"that.m4a",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
-    {s:"mirada",e:"look",a:"look.mp3",i:""},
+    {s:"mirada",e:"look",a:"look.mp3",i:"look.jpg"},
     {s:"ya",e:"already",a:"already.mp3",i:""},
     {s:"estaba",e:"was",a:"was.mp3",i:""},
     {s:"llamándome",e:"calling me",a:"callingMe.mp3",i:"callingMe.jpg"}
   ],3: [
     {s:"muéstrame",e:"show me",a:"showMe.mp3",i:""},
-    {s:"el",e:"the",a:"the.mp3",i:""},
+    {s:"el",e:"the",a:"the.mp3",i:"the.jpg"},
     {s:"camino",e:"way",a:"way.mp3",i:""},
     {s:"que",e:"that",a:"that.m4a",i:""},
-    {s:"yo",e:"I",a:"i.mp3",i:""},
+    {s:"yo",e:"I",a:"i.mp3",i:"i.jpg"},
     {s:"voy",e:"(I) go",a:"iGo.mp3",i:""}
   ],4: [
-    {s:"tú",e:"you",a:"you.mp3",i:""},
-    {s:"eres",e:"(you) are",a:"youAre.mp3",i:""},
-    {s:"el",e:"the",a:"the.mp3",i:""},
+    {s:"tú",e:"you",a:"you.mp3",i:"you.jpg"},
+    {s:"eres",e:"(you) are",a:"youAre.mp3",i:"youAre.jpg"},
+    {s:"el",e:"the",a:"the.mp3",i:"the.jpg"},
     {s:"imán",e:"magnet",a:"magnet.mp3",i:"magnet.jpg"},
-    {s:"y",e:"and",a:"and.mp3",i:""},
-    {s:"yo",e:"I",a:"i.mp3",i:""},
-    {s:"soy",e:"(I) am",a:"iAm.mp3",i:""},
+    {s:"y",e:"and",a:"and.mp3",i:"and.jpg"},
+    {s:"yo",e:"I",a:"i.mp3",i:"i.jpg"},
+    {s:"soy",e:"(I) am",a:"iAm.mp3",i:"iAm.jpg"},
     {s:"metal",e:"metal",a:"metal.mp3",i:"metal.jpg"}
   ],5: [
     {s:"me voy",e:"I'm going",a:"imGoing.mp3",i:""},
     {s:"acercando",e:"getting closer",a:"gettingCloser.mp3",i:""},
-    {s:"y",e:"and",a:"and.mp3",i:""},
+    {s:"y",e:"and",a:"and.mp3",i:"and.jpg"},
     {s:"armando",e:"put together",a:"putTogether.mp3",i:""},
-    {s:"el",e:"the",a:"the.mp3",i:""},
+    {s:"el",e:"the",a:"the.mp3",i:"the.jpg"},
     {s:"plan",e:"plan",a:"plan.mp3",i:"plan.jpg"}
   ],6: [
     {s:"solo",e:"alone",a:"alone.mp3",i:"alone.jpg"},
@@ -68,7 +68,7 @@ const words ={
     {s:"pensarlo",e:"thinking",a:"thinking.mp3",i:"thinking.jpg"},
     {s:"se",e:"itself",a:"itself.mp3",i:""},
     {s:"acelera",e:"accelerate",a:"accelerate.mp3",i:"accelerate.jpg"},
-    {s:"el",e:"the",a:"the.mp3",i:""},
+    {s:"el",e:"the",a:"the.mp3",i:"the.jpg"},
     {s:"pulso",e:"pulse",a:"pulse.mp3",i:"pulse.jpg"}
   ],7: [
     {s:"ya",e:"already",a:"already.mp3",i:""},
@@ -78,7 +78,7 @@ const words ={
     {s:"más de lo normal",e:"more than normal",a:"moreThanNormal.mp3",i:""},
     {s:"normal",e:"normal",a:"normal.mp3",i:""}
   ],8: [
-    {s:"Todos",e:"all",a:"all.m4a",i:""},
+    {s:"Todos",e:"all",a:"all.m4a",i:"all.jpg"},
     {s:"mis",e:"my",a:"pMy.m4a",i:""},
     {s:"sentidos",e:"senses",a:"senses.m4a",i:"senses.jpg"},
     {s:"van",e:"(they) go",a:"theyGo.m4a",i:""},
@@ -108,9 +108,9 @@ const words ={
     {s:"oído",e:"ear",a:"ear.m4a",i:"ear.jpg"}
   ],13: [
     {s:"para que",e:"so that",a:"soThat.m4a",i:""},
-    {s:"te acuerdes",e:"you remember",a:"youRemember.m4a",i:""},
-    {s:"si",e:"if",a:"if.m4a",i:""},
-    {s:"no estás",e:"you are not",a:"youAreNot.m4a",i:""},
+    {s:"te acuerdes",e:"you remember",a:"youRemember.m4a",i:"youRemember.jpg"},
+    {s:"si",e:"if",a:"if.m4a",i:"if.jpg"},
+    {s:"no estás",e:"you are not",a:"youAreNot.m4a",i:"youAreNot.jpg"},
     {s:"conmigo",e:"with me",a:"withMe.m4a",i:"withMe.jpg"}
   ],14: [
     {s:"despacito",e:"slowly",a:"slowly.m4a",i:"slowly.jpg"}
@@ -127,13 +127,13 @@ const words ={
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"laberinto",e:"labyrinth",a:"labyrinth.m4a",i:"labyrinth.jpg"}
   ],17: [
-    {s:"y",e:"and",a:"and.mp3",i:""},
+    {s:"y",e:"and",a:"and.mp3",i:"and.jpg"},
     {s:"hacer",e:"to make",a:"oToDo.m4a",i:""},
     {s:"de",e:"of",a:"of.m4a",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"cuerpo",e:"body",a:"body.m4a",i:""},
-    {s:"todo",e:"all",a:"sAll.m4a",i:""},
-    {s:"un",e:"a",a:"a.m4a",i:""},
+    {s:"todo",e:"all",a:"sAll.m4a",i:"all.jpg"},
+    {s:"un",e:"a",a:"a.m4a",i:"a.jpg"},
     {s:"manuscrito",e:"manuscript",a:"manuscript.m4a",i:"manuscript.jpg"},
     {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:"goUp.jpg"}
   ],18: [
@@ -173,33 +173,33 @@ const words ={
     {s:"tus",e:"your",a:"pYour.m4a",i:""},
     {s:"gritos",e:"scream",a:"scream.m4a",i:""}
   ],25: [
-    {s:"y",e:"and",a:"and.mp3",i:""},
+    {s:"y",e:"and",a:"and.mp3",i:"and.jpg"},
     {s:"que",e:"that",a:"that.m4a",i:""},
     {s:"olvides",e:"(you) forget",a:"youForget.m4a",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"apellido",e:"family name",a:"familyName.m4a",i:""},
   ],26: [
-    {s:"si",e:"if",a:"if.m4a",i:""},
-    {s:"te pido",e:"I ask you",a:"iAskYou.m4a",i:""},
-    {s:"un",e:"a",a:"a.m4a",i:""},
+    {s:"si",e:"if",a:"if.m4a",i:"if.jpg"},
+    {s:"te pido",e:"I ask you",a:"iAskYou.m4a",i:"iAskYou.jpg"},
+    {s:"un",e:"a",a:"a.m4a",i:"a.jpg"},
     {s:"beso",e:"kiss",a:"kiss2.m4a",i:"kiss.jpg"},
-    {s:"ven",e:"come",a:"come.m4a",i:""},
-    {s:"dámelo",e:"give it to me",a:"giveItToMe.m4a",i:""}
+    {s:"ven",e:"come",a:"come.m4a",i:"come.jpg"},
+    {s:"dámelo",e:"give it to me",a:"giveItToMe.m4a",i:"giveItToMe.jpg"}
   ],27: [
-    {s:"yo",e:"I",a:"i.mp3",i:""},
+    {s:"yo",e:"I",a:"i.mp3",i:"i.jpg"},
     {s:"sé",e:"know",a:"know.m4a",i:""},
     {s:"que",e:"that",a:"that.m4a",i:""},
-    {s:"estás",e:"you are",a:"youAre.m4a",i:""},
-    {s:"pensándolo",e:"thinking",a:"thinking.m4a",i:""}
+    {s:"estás",e:"you are",a:"youAre.m4a",i:"youAre.jpg"},
+    {s:"pensándolo",e:"thinking",a:"thinking.m4a",i:"thinking.jpg"}
   ],28: [
-    {s:"llevo",e:"I take",a:"haveDone.mp3"},
-    {s:"tiempo",e:"time",a:"time.m4a",i:""},
-    {s:"intentándolo",e:"trying",a:"trying.m4a",i:""}
+    {s:"llevo",e:"I take",a:"haveDone.mp3",i:"iTake.jpg"},
+    {s:"tiempo",e:"time",a:"time.m4a",i:"time.jpg"},
+    {s:"intentándolo",e:"trying",a:"trying.m4a",i:"trying.jpg"}
   ],29: [
     {s:"Mami",e:"sweetheart",a:"sweetheart.m4a",i:""},
     {s:"esto es",e:"this is",a:"thisIs.m4a",i:""},
     {s:"dando",e:"giving",a:"giving.m4a",i:""},
-    {s:"y",e:"and",a:"and.mp3",i:""},
+    {s:"y",e:"and",a:"and.mp3",i:"and.jpg"},
     {s:"dándolo",e:"giving it",a:"givingIt.m4a",i:""}
   ],30: [
     {s:"sabes",e:"(You) know",a:"youKnow.mp3"},
@@ -220,7 +220,7 @@ const words ={
     {s:"mi",e:"my",a:"my.m4a",i:""},
     {s:"bom",e:"???",a:"",i:""}
   ],32: [
-    {s:"ven",e:"come",a:"come.m4a",i:""},
+    {s:"ven",e:"come",a:"come.m4a",i:"come.jpg"},
     {s:"prueba",e:"taste",a:"taste.m4a",i:""},
     {s:"de",e:"of",a:"of.m4a",i:""},
     {s:"mi",e:"my",a:"my.m4a",i:""},
@@ -228,7 +228,7 @@ const words ={
     {s:"para",e:"for",a:"for.m4a",i:""},
     {s:"ver",e:"to see",a:"see.m4a",i:""},
     {s:"cómo",e:"what",a:"what.m4a",i:""},
-    {s:"te",e:"you",a:"you.m4a",i:""},
+    {s:"te",e:"you",a:"you.m4a",i:"you.jpg"},
     {s:"sabe",e:"find out/taste",a:"findOut.m4a",i:""}
   ],33: [
     {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
@@ -243,7 +243,7 @@ const words ={
     {s:"me",e:"myself",a:"myself.m4a",i:""},
     {s:"quiero",e:"(I) want",a:"iWant.m4a",i:""},
     {s:"dar el viaje",e:"enjoy the trip",a:"enjoyTrip.m4a",i:""},
-    {s:"el",e:"the",a:"the.mp3",i:""},
+    {s:"el",e:"the",a:"the.mp3",i:"the.jpg"},
     {s:"viaje",e:"trip",a:"trip.m4a",i:""}
   ],35: [
     {s:"empecemos",e:"(we) begin",a:"weBegin.m4a",i:""},
@@ -259,7 +259,7 @@ const words ={
     {s:"poquito a poquito",e:"little by little",a:"littleByLittle.m4a",i:""}
   ],38: [
     {s:"cuando",e:"when",a:"when.m4a",i:""},
-    {s:"tú",e:"you",a:"you.mp3",i:""},
+    {s:"tú",e:"you",a:"you.mp3",i:"you.jpg"},
     {s:"me",e:"myself",a:"myself.m4a",i:""},
     {s:"besas",e:"kiss",a:"kiss.m4a",i:"kiss.jpg"},
     {s:"con",e:"with",a:"with.m4a",i:""},
@@ -268,7 +268,7 @@ const words ={
   ],39: [
     {s:"veo",e:"I see",a:"iSee.m4a",i:""},
     {s:"que",e:"that",a:"that.m4a",i:""},
-    {s:"eres",e:"(you) are",a:"youAre.mp3",i:""},
+    {s:"eres",e:"(you) are",a:"youAre.mp3",i:"youAre.jpg"},
     {s:"malicia",e:"mischief",a:"mischief.m4a",i:""},
     {s:"con",e:"with",a:"with.m4a",i:""},
     {s:"delicadeza",e:"kindness",a:"kindness.m4a",i:""}
@@ -280,13 +280,13 @@ const words ={
     {s:"nos vamos pegando",e:"we get closer",a:"weGetCloser.m4a",i:""},
     {s:"poquito a poquito",e:"little by little",a:"littleByLittle.m4a",i:""}
   ],42: [
-    {s:"y",e:"and",a:"and.mp3",i:""},
+    {s:"y",e:"and",a:"and.mp3",i:"and.jpg"},
     {s:"es",e:"is",a:"is.m4a",i:""},
     {s:"que",e:"that",a:"that.m4a",i:""},
     {s:"esa",e:"that",a:"that2.m4a",i:""},
     {s:"belleza",e:"beauty",a:"beauty.m4a",i:""},
-    {s:"un",e:"a",a:"a.m4a",i:""},
-    {s:"rompecabezas",e:"jigsaw puzzle",a:"puzzle.m4a",i:""}
+    {s:"un",e:"a",a:"a.m4a",i:"a.jpg"},
+    {s:"rompecabezas",e:"jigsaw puzzle",a:"puzzle.m4a",i:"puzzle.jpg"}
   ],43: [
     {s:"pero",e:"but",a:"but.m4a",i:""},
     {s:"pa",e:"to",a:"to.m4a",i:""},
@@ -311,9 +311,9 @@ const words ={
     {s:"oído",e:"ear",a:"ear.m4a",i:"ear.jpg"}
   ],47: [
     {s:"para que",e:"so that",a:"soThat.m4a",i:""},
-    {s:"te acuerdes",e:"you remember",a:"youRemember.m4a",i:""},
-    {s:"si",e:"if",a:"if.m4a",i:""},
-    {s:"no estás",e:"you are not",a:"youAreNot.m4a",i:""},
+    {s:"te acuerdes",e:"you remember",a:"youRemember.m4a",i:"youRemember.jpg"},
+    {s:"si",e:"if",a:"if.m4a",i:"if.jpg"},
+    {s:"no estás",e:"you are not",a:"youAreNot.m4a",i:"youAreNot.jpg"},
     {s:"conmigo",e:"with me",a:"withMe.m4a",i:"withMe.jpg"}
   ],48: [
     {s:"despacito",e:"slowly",a:"slowly.m4a",i:"slowly.jpg"}
@@ -330,13 +330,13 @@ const words ={
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"laberinto",e:"labyrinth",a:"labyrinth.m4a",i:"labyrinth.jpg"}
   ],51: [
-    {s:"y",e:"and",a:"and.mp3",i:""},
+    {s:"y",e:"and",a:"and.mp3",i:"and.jpg"},
     {s:"hacer",e:"to make",a:"oToDo.m4a",i:""},
     {s:"de",e:"of",a:"of.m4a",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
     {s:"cuerpo",e:"body",a:"body.m4a",i:""},
-    {s:"todo",e:"all",a:"sAll.m4a",i:""},
-    {s:"un",e:"a",a:"a.m4a",i:""},
+    {s:"todo",e:"all",a:"sAll.m4a",i:"all.jpg"},
+    {s:"un",e:"a",a:"a.m4a",i:"a.jpg"},
     {s:"manuscrito",e:"manuscript",a:"manuscript.m4a",i:"manuscript.jpg"},
     {s:"sube",e:"(it) goes up",a:"goUp.m4a",i:"goUp.jpg"}
   ],52: [
@@ -376,7 +376,7 @@ const words ={
     {s:"tus",e:"your",a:"pYour.m4a",i:""},
     {s:"gritos",e:"scream",a:"scream.m4a",i:""}
   ],59: [
-    {s:"y",e:"and",a:"and.mp3",i:""},
+    {s:"y",e:"and",a:"and.mp3",i:"and.jpg"},
     {s:"que",e:"that",a:"that.m4a",i:""},
     {s:"olvides",e:"(you) forget",a:"youForget.m4a",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
@@ -387,7 +387,7 @@ const words ={
     {s:"vamos a",e:"let's",a:"lets.m4a",i:""},
     {s:"hacerlo",e:"to do it",a:"doIt.m4a",i:""},
     {s:"en",e:"on",a:"in.m4a",i:""},
-    {s:"una",e:"a",a:"gA.m4a",i:""},
+    {s:"una",e:"a",a:"gA.m4a",i:"a.jpg"},
     {s:"playa",e:"beach",a:"beach.m4a",i:"beach.jpg"},
     {s:"en",e:"in",a:"in.m4a",i:""},
     {s:"Puerto Rico",e:"Puerto Rico",a:"puertoRico.m4a",i:"puertoRico.jpg"}
@@ -435,7 +435,7 @@ const words ={
     {s:"tus",e:"your",a:"pYour.m4a",i:""},
     {s:"gritos",e:"scream",a:"scream.m4a",i:""}
   ],71: [
-    {s:"Y",e:"and",a:"and.mp3",i:""},
+    {s:"y",e:"and",a:"and.mp3",i:"and.jpg"},
     {s:"que",e:"that",a:"that.m4a",i:""},
     {s:"olvides",e:"(you) forget",a:"youForget.m4a",i:""},
     {s:"tu",e:"your",a:"your.mp3",i:""},
